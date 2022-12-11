@@ -14,7 +14,6 @@
     position: fixed;
     z-index: 1;
 }
-
 .nav{
     padding: 16px 48px;
     align-items: center;
@@ -66,7 +65,6 @@
 .img_1{
     height: 513.19px;
     float:right;
-
 }
 .img_2{
     height: 480px;
@@ -130,7 +128,6 @@
     font-weight: 300;
     line-height: 1.8rem ;
 }
-
 .channel{
     width: 607.06px;
     height: 566.06px;
